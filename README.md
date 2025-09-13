@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=CMJ+CODEHAVEN+STUDIO;TRANSFORMANDO+IDEIAS+EM+EXPERIÊNCIAS+DIGITAIS+EXCEPCIONAIS" />
+  <img src="https://readme-typing-svg.vercel.app/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=CMJ+CODE+HAVEN+STUDIO" />
 </div>
 
 <div align="center">
@@ -84,9 +84,9 @@ Com anos de experiência no mercado, entendemos que cada projeto é único e mer
 
 | Nome | Cargo | Especialização |
 |------|-------|----------------|
-| **Lucca Valladão e Marchetti** | Co-Founder | Developer & Product Strategist |
-| **Rafael Alegre** | Programador | Desenvolvimento de Software |
-| **Márcio Júnior** | IT Support | Pentesting, Redes & Administração de Sistemas |
+| **Lucca Valladão e Marchetti** | Co-Founder & Developer | Product Strategist & Full-Stack Development |
+| **Rafael Alegre** | Co-Founder & Developer | Desenvolvimento de Software & Backend |
+| **Márcio Júnior** | Co-Founder & Developer | Pentesting, Redes & Administração de Sistemas |
 
 ---
 
